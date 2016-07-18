@@ -19,3 +19,8 @@ set cursorline					" 显示当前行
 "--------------------------------------------------------------------
 vmap "+y :w !pbcopy<CR><CR>
 nmap "+p :r !pbpaste<CR><CR>
+
+"folding setting
+set foldnestmax=1
+
+
