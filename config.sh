@@ -1,13 +1,15 @@
 # basic
 
-# vim
+# install 
+## install-tmux
+bash install/basic.sh
+
+# config
+## vim
 cp -a vim/ ~/
-
-# tmux
+## tmux
 cp -a tmux/ ~/
-
-# zsh
+## zsh
 cp -a zsh/ ~/
-
-# git
+## git
 cp -a git/ ~/
